@@ -106,7 +106,7 @@ export default function Home() {
           >
             ↖️ View Small Screen Size
           </button>
-          <a href="#" className="block mx-auto w-64 bg-gray-200 rounded px-3 py-3 text-lg"><img className="inline mr-2 -mt-1" width="20" src="/images/github.svg" alt="Github logo" />View Source on Github</a>
+          <a href="https://github.com/johnpolacek/stacktable" className="block mx-auto w-64 bg-gray-200 rounded px-3 py-3 text-lg"><img className="inline mr-2 -mt-1" width="20" src="/images/github.svg" alt="Github logo" />View Source on Github</a>
         </div>
       </main>
 
