@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://cardtable.vercel.app", 
+      "permanent": true
+    },
+    { 
+      "source": "/view-source",
+      "destination": "https://cardtable.vercel.app", 
+      "permanent": true
+    }
+  ]
+}
